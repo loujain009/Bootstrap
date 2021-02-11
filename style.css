@@ -1,0 +1,69 @@
+
+
+.contentOURSTORY h2 {
+	padding: 80px;
+	font-family: "Verdana";
+	background-color:#f5f5f5;
+	text-align: center;
+
+	
+}
+
+.contentOURSTORY1 p {
+	font-family: "Verdana";
+	text-align: center;
+	padding: 20px;	 
+}
+
+/* قائمة menu*/
+
+.contentMenu {
+	padding: 80px;
+	font-family: "Verdana";
+	background-color:#f5f5f5;
+	text-align: center;
+
+}
+/* قائمة home , about , menu*/
+#a ,#b , #c{
+	color: #000;
+	padding: 20px;
+	font-family: Verdana;
+
+}
+
+
+.myimg{
+	width: 200px;
+	height: 300px;
+	margin:  auto;
+	display: block;
+	padding-bottom: 10px;
+	}
+
+.items p{
+	text-align: center;
+	font-family: cursive;
+
+
+}
+
+.items h4{
+	text-align: center;
+	font-family: cursive;
+	padding: 10px;
+}
+
+.contentABOUTT{
+	text-align: center;
+	font-family: cursive;
+}
+
+.contentABOUT{
+	text-align: center;
+	font-family:Verdana;
+	background-color:#f5f5f5;
+	padding: 80px;
+
+
+}
